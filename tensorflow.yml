@@ -21,4 +21,5 @@ dependencies:
         - bayesian-optimization
         - gym
         - kaggle
+        - tensorflow-datasets
         
